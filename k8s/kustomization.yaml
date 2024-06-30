@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: fguariba/gitopsfc
-  newTag: mia
+  newTag: 2d9d94b4de78e3e6759a06233a16526e76641258
